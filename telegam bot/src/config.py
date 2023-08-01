@@ -5,7 +5,7 @@ from services.sql import DataBase
 
 @dataclass
 class Config:
-    token: str = '6043223939:AAEkIPOPHVAgCOFLlR5FXTwUhGKn3kQnBQY'
+    token: str = 'тут был токен'
     mychat_id: int = 438588745
     admin_id = 438588745
     admins_id = [438588745]
